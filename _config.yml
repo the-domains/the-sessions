@@ -1,0 +1,28 @@
+name: The Sessions
+favicon: null
+layout_spectrum: 0.14336774684488773
+typography_spectrum: 0.722253869753331
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.10349130514077842
+  lightness: 0.035189680522307754
+  saturation: 0.4459031892474741
+  rhythmicContrast: 0.4484595227986574
+purpose: []
